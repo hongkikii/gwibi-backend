@@ -10,7 +10,7 @@
 
 ![6](https://github.com/hongkikii/gwibi-2/assets/110226866/3c89e8b4-923d-42f7-98cc-6cb1e7d6beb9)
 
-![7](https://github.com/hongkikii/gwibi-2/assets/110226866/e2fe88c4-188b-4d33-805d-bd509a579da9)
+![귀차니즘을 위한 비서](https://github.com/hongkikii/gwibi-2/assets/110226866/e28f2c21-0db3-465d-a5a4-57b1498d2fdf)
 
 ![8](https://github.com/hongkikii/gwibi-2/assets/110226866/07dd0041-47a3-4b18-bdcb-f3b17c840b97)
 
