@@ -1,0 +1,33 @@
+spring:
+  profiles:
+    active: prod
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+
+  cloud:
+    aws:
+      credentials:
+        access-key: ${AWS_S3_ACCESS_KEY}
+        secret-key: ${AWS_S3_SECRET_KEY}
+      region:
+        static: ap-south-1
+        auto: false
+      stack:
+        auto: false
+      s3:
+        bucket: mju-team3
+
+  servlet:
+    multipart:
+      max-file-size: 300MB
+      max-request-size: 300MB
+
+lambda:
+  function:
+    url: ${LAMBDA_FUNCTION_URL}
