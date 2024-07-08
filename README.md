@@ -16,7 +16,7 @@
 
 ![9](https://github.com/hongkikii/gwibi-2/assets/110226866/1c21af23-0c47-4205-a4ca-d25515592a0f)
 
-## 보완 요소
+## 백로그
 - 이미지 인식 기능 개선
 - 실제 외부 쇼핑몰 API 연동
 - 알림 기능 구현
