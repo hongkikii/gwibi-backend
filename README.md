@@ -15,3 +15,9 @@
 ![8](https://github.com/hongkikii/gwibi-2/assets/110226866/07dd0041-47a3-4b18-bdcb-f3b17c840b97)
 
 ![9](https://github.com/hongkikii/gwibi-2/assets/110226866/1c21af23-0c47-4205-a4ca-d25515592a0f)
+
+## 보완 요소
+- 이미지 인식 기능 개선
+- 실제 외부 쇼핑몰 API 연동
+- 알림 기능 구현
+- 물품 자동 등록 시 실제 사용 시작 시점과의 차이 분석
